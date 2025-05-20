@@ -36,6 +36,10 @@ We explore trends across genres, regions, and time using real-world data.
 - 📌 Regional Sales by Genre  
 - 📈 Sales Over Time  
 - 📊 KPIs by Genre: Total, Avg, Count
+- <p align="center">
+  <img src="images/dashboard.png" width="600"/>
+</p>
+
 
 <p align="center">
   <img src="img/dashboard-preview.png" width="600"/>
